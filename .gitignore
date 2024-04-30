@@ -1,3 +1,6 @@
+#/tokens/ is all private keys such as the discord.txt which is the bot key
+/tokens/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
